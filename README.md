@@ -1,6 +1,3 @@
-<file_path> BontonCopilotNew\README.md </file_path>
-<edit_description> Create README.md with project setup instructions </edit_description>
-
 # Bonton Copilot
 
 A Django 5 REST API project for a travel chatbot application.
